@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b3c7669.chunk.css",
+    "main.js": "/static/js/main.c3526901.chunk.js",
+    "main.js.map": "/static/js/main.c3526901.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3f0e9f44.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3f0e9f44.js.map",
+    "static/js/2.9ccfd959.chunk.js": "/static/js/2.9ccfd959.chunk.js",
+    "static/js/2.9ccfd959.chunk.js.map": "/static/js/2.9ccfd959.chunk.js.map",
+    "static/js/3.d6fdab82.chunk.js": "/static/js/3.d6fdab82.chunk.js",
+    "static/js/3.d6fdab82.chunk.js.map": "/static/js/3.d6fdab82.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1b3c7669.chunk.css.map": "/static/css/main.1b3c7669.chunk.css.map",
+    "static/js/2.9ccfd959.chunk.js.LICENSE.txt": "/static/js/2.9ccfd959.chunk.js.LICENSE.txt",
+    "static/media/1.c8ef679f.jpg": "/static/media/1.c8ef679f.jpg",
+    "static/media/aboutus.b22b2d62.jpg": "/static/media/aboutus.b22b2d62.jpg",
+    "static/media/countactus.ca19ab40.jpg": "/static/media/countactus.ca19ab40.jpg",
+    "static/media/index.css": "/static/media/iCiel-Medium.b23bb62d.ttf",
+    "static/media/services.5c02d13e.jpg": "/static/media/services.5c02d13e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f0e9f44.js",
+    "static/js/2.9ccfd959.chunk.js",
+    "static/css/main.1b3c7669.chunk.css",
+    "static/js/main.c3526901.chunk.js"
+  ]
+}
